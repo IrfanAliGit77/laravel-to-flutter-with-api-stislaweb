@@ -1,4 +1,4 @@
-# stislaflutter
+# laraveltostislaflutter
 
 A new Flutter project.
 
